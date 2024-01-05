@@ -1,0 +1,26 @@
+{
+  "name": "@npmusername/reverse-sentence",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Isabella",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/iioisabella/reverse-sentence.git"
+  },
+  "bugs": {
+    "url": "https://github.com/iioisabella/reverse-sentence/issues"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "lint": "./node_modules/prettier/bin/prettier.cjs . --write"
+  },
+  "homepage": "https://github.com/iioisabella/reverse-sentence#readme",
+  "description": "",
+  "devDependencies": {
+    "prettier": "3.1.1"
+  }
+}
